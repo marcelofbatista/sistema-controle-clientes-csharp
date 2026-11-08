@@ -1,8 +1,8 @@
 # Sistema de Controle de Clientes – ClientLab
 
-Atividade **SA2 – Desenvolvimento de sistema de controle de clientes**
-Codificação Back-End · SENAI · Turma CTMSP_DDF_QO_FULLST_252T10
-Aluno: **Marcelo Ferreira Batista**
+**Autor:** Marcelo Ferreira Batista ([@marcelofbatista](https://github.com/marcelofbatista))<br>
+**Contexto:** Codificação Back-End – SENAI, Qualificação em Programador Full-Stack (turma CTMSP_DDF_QO_FULLST_252T10)<br>
+**Atividade:** SA2 – Desenvolvimento de sistema de controle de clientes
 
 Sistema de console em **C# (.NET 8)** desenvolvido pela Troppo para a ClientLab. Ele cadastra clientes pessoa física e pessoa jurídica, calcula o imposto de cada tipo e grava os registros em arquivo.
 
